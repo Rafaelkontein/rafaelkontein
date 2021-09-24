@@ -3,7 +3,7 @@ Olá,Sou o Rafael
 - 🔭 Hoje trabalho com python e java
 - 🌱 Estudo banco de dados pynthon e java
 - 😄 procuro estagio na area
-<div align="center">
+<div style="display>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkontein&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkontein&layout=compact&langs_count=7&theme=react"/>
