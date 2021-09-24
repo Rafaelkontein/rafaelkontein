@@ -1,8 +1,8 @@
-<h1 Olá,Sou o Rafael</h1> 
+ Olá,Sou o Rafael
 
-- 🔭 Hoje trabalho com python e java
+<h3- 🔭 Hoje trabalho com python e java
 - 🌱 Estudo banco de dados pynthon e java
-- 😄 procuro estagio na area
+- 😄 procuro estagio na area </h3>
 <div style="display: inline_block"><br>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkontein&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
