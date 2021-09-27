@@ -1,8 +1,9 @@
 ## Olá! Eu sou a Rafael Kon Tein
 
-- 🔭 Atualmente sou focado nas liguagem Java e python 
-- 🌱 Estudo banco de dados, pynthon e java
-- 😄 procuro estagio na area <
+- 🔭 Atualmente sou focado nas liguagem Java e python.
+- 🌱 Estudo banco de dados, python e java
+- 😄 procuro estagio na area 
+- 😄 Veja meu avatar, repositorio e meus contatos mais abaixos 
 <div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelkontein&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
