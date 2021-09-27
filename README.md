@@ -18,7 +18,7 @@
  
 </div>
   
-  ##
+ 
  
 <div> 
 
@@ -27,8 +27,7 @@
  
 </div>
   
-  <div>
-    
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://user-images.githubusercontent.com/80009977/134829361-1e929f7c-eca3-4f19-b714-337d0ffa54cb.jpg">
-    
-    </div>
+
+  
+  ![avatar](https://user-images.githubusercontent.com/80009977/134829361-1e929f7c-eca3-4f19-b714-337d0ffa54cb.jpg)
+
