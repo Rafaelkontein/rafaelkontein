@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou focado nas liguagem Java e python.
 - 🌱 Estudo banco de dados, python e java
-- 😄 procuro estagio na area 
+
 - 😄 Veja meu avatar, repositorio e meus contatos mais abaixos 
 <div align="left">
   <a href="https://github.com/rafaballerini">
