@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Rafael Kon Tein
 
 - 🔭 Atualmente sou focado nas liguagem Java e python.
-- 🌱 Estudo banco de dados, python e java
-
+- 🌱 Sou programador  Android Nativos com Java e Kotlin
 - 😄 Veja meu avatar, repositorio e meus contatos mais abaixos 
 <div align="left">
   <a href="https://github.com/rafaballerini">
