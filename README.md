@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Rafael Kon Tein
 
-- 🔭 Atualmente sou focado nas liguagem Java e python.
+- 🔭 Atualmente sou focado nas liguagem Java e Kotlin.
 - 🌱 Sou programador  Android Nativos com Java e Kotlin
 - 😄 Veja meu avatar, repositorio e meus contatos mais abaixos 
 <div align="left">
